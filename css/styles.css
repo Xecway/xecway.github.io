@@ -21,7 +21,7 @@ nav a:hover {background: #2d698b;color: #fff;}
 #work {margin-top: -7px;background: url(../img/work_bg.png) repeat;width: 100%;height:4400px;position: relative;z-index: 400;}
 .subheader {text-align: center;margin-top: 70px;}
 .subheader h2 {display: inline-block;}
-.subheader_line {background: url(../img/subheader_line.png) no-repeat;width: 348px;height: 8px;margin: 0 10px 5px 10px;display: inline-block;}
+.subheader_line {background: url(../img/subheader_line.png) no-repeat;width: 340px;height: 8px;margin: 0 10px 5px 10px;display: inline-block;}
 .gallery {margin-top: 70px;}
 .gallery p {margin-top: 7px;font-size: 15px;color: #4b4a4a;text-align: center;}
 span.ss_text {color: #808080;}
